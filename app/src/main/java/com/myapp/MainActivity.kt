@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         val c: Int = a + b
         print("$c")
         print("Hello world")
+        print("Kabir Agamirzaev")
     }
 }
